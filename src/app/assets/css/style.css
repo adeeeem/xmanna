@@ -2389,7 +2389,7 @@ html.menu-opened body {
 -----------------------*/
 
 .section-search {
-  background: #ffffff url("../img/lyGapcEg (1).jpg") no-repeat bottom center;
+  background: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.8) ), url("../img/lyGapcEg (1).jpg") no-repeat bottom center ;
   
   background-size: cover;
  
